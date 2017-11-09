@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.simbirsoft.autotests.simbirsoftcom.MainPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 12.631 sec <<< FAILURE! - in com.simbirsoft.autotests.simbirsoftcom.MainPageTest
+case00(com.simbirsoft.autotests.simbirsoftcom.MainPageTest)  Time elapsed: 5.805 sec  <<< FAILURE!
+java.lang.AssertionError: Case 00 is failed. http://somesite.com is responding
+	at com.simbirsoft.autotests.simbirsoftcom.MainPageTest.case00(MainPageTest.java:33)
+

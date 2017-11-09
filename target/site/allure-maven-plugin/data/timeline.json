@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "pc610",
+    "threads" : [ {
+      "title" : "9072@pc610.main(1)",
+      "testCases" : [ {
+        "uid" : "aba3d7ff56c13622",
+        "name" : "case00",
+        "title" : "Проверка доступности главной страницы по aдресу",
+        "time" : {
+          "start" : 1510232364213,
+          "stop" : 1510232369993,
+          "duration" : 5780
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  } ]
+}

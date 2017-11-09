@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1510232364213,
+    "stop" : 1510232369993,
+    "duration" : 5780
+  },
+  "testSuites" : [ {
+    "uid" : "9e89d4a295097974",
+    "name" : "com.simbirsoft.autotests.simbirsoftcom.MainPageTest",
+    "title" : "Main page test",
+    "time" : {
+      "start" : 1510232364213,
+      "stop" : 1510232369993,
+      "duration" : 5780
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "aba3d7ff56c13622",
+      "name" : "case00",
+      "title" : "Проверка доступности главной страницы по aдресу",
+      "time" : {
+        "start" : 1510232364213,
+        "stop" : 1510232369993,
+        "duration" : 5780
+      },
+      "severity" : "NORMAL",
+      "status" : "FAILED"
+    } ]
+  } ]
+}
